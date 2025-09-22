@@ -3,10 +3,9 @@ Local, privacy-friendly leaf image classification into healthy / diseased using 
 
 
 
-# HTTPS (replace with your repo path)
+# HTTPS 
 git clone https://github.com/PKghose/LLM_for_Agriculture.git
 cd LLM_for_Agriculture
-
 # or SSH
 git clone git@github.com:/PKghose/LLM_for_Agriculture.git
 cd LLM_for_Agriculture
