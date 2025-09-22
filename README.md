@@ -1,6 +1,17 @@
 # LLM_for_Agriculture
 Local, privacy-friendly leaf image classification into healthy / diseased using Ollama vision models.
 
+
+
+# HTTPS (replace with your repo path)
+git clone https://github.com/PKghose/LLM_for_Agriculture.git
+cd LLM_for_Agriculture
+
+# or SSH
+git clone git@github.com:/PKghose/LLM_for_Agriculture.git
+cd LLM_for_Agriculture
+
+
 # Leaf LLM Classifier (Zero-Shot & Few-Shot, Local via Ollama)
 
 This repo provides two Python scripts for **classifying leaf images** into **`healthy`** or **`diseased`** using **local** LLM/VLM models served by **Ollama**.  
