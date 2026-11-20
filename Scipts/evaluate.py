@@ -1,4 +1,3 @@
-"""New paper-derived evaluation tools. No fabricated study observations."""
 import argparse, csv, hashlib, itertools, json, math, platform
 from collections import Counter, defaultdict
 from pathlib import Path
