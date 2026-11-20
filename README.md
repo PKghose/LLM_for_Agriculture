@@ -1,8 +1,8 @@
-##Hallucination Behavior in Multimodal LLMs Across Agricultural Image Interpretation and Generation Tasks
+**Hallucination Behavior in Multimodal LLMs Across Agricultural Image Interpretation and Generation Tasks**
 
 This repository contains the code and data used to produce the results reported in the accompanying manuscript.
 
-##Purpose
+**Purpose**
 
 The code supports a pilot study of how multimodal large language models (MLLMs) hallucinate on agricultural imagery. It is used to:
 
