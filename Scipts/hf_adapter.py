@@ -1,4 +1,3 @@
-"""Optional Transformers adapter; checkpoint-specific real-image validation required."""
 _CACHE={}
 def predict(request,model,revision=None):
     import torch, transformers
