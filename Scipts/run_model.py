@@ -1,4 +1,3 @@
-"""Run a user-selected adapter. No credentials, model IDs, or outputs are invented."""
 import argparse, importlib, json, time, hashlib
 from pathlib import Path
 
